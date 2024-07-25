@@ -1,0 +1,13 @@
+网上去搜索在线健康证网站，然后使用扒站工具下载下来
+http://jktj3.jkz5409.top/cn.php
+
+配置了公钥ssh之后使用ssh拉代码
+
+yulong：
+文件路径：/voiceprint/jeecg-bin/upFiles/PDF
+访问地址：https://covidsh.dkmksh.com/PDF/healthfiles/health.html
+在线生成二维码：https://www.wwei.cn/?from=bdtp
+
+gitee：
+需要开启服务或者更新服务，然后访问地址https://zjw91.gitee.io/health-card/health0202.html，目前已停止服务
+使用镜像服务到github上提交更快
